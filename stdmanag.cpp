@@ -7,7 +7,7 @@ int total=0;
 
 void enter(){
     int choice;
-    cout<<"ENTER STUDENTS OF YOUR CHOICE "<<endl;
+    cout<<" ENTER STUDENTS OF YPUR CHOICE :  "<<endl;
     cin>>choice;
      if (total + choice > 50) {
         cout << "You can only enter " << (50 - total) << " more students." << endl;
@@ -188,4 +188,5 @@ while(true){
 }
 
 return 0;
+
 }
