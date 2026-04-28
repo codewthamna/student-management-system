@@ -40,3 +40,27 @@ The system stores student details such as name, roll number, course, class, and 
 
 ## 📂 File Information:
 stdmanag.cpp // Main source file containing the Student Management System
+
+
+---
+
+## ⚠️ Limitations
+- Data is stored temporarily (no file handling).
+- Maximum limit of **50 students**.
+- Uses arrays instead of classes (not fully OOP).
+- Input does not support spaces in names or courses.
+
+---
+
+## 🚀 Future Improvements
+- Convert the system to **Object-Oriented Programming (OOP)** using classes
+- Add **file handling** to store data permanently
+- Improve input handling using `getline()`
+- Add better validation and error handling
+- Replace arrays with vectors or database integration
+
+---
+
+## 📫 Author
+**Amna Khan**  
+GitHub: https://github.com/codewthamna
