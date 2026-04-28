@@ -38,4 +38,5 @@ The system stores student details such as name, roll number, course, class, and 
 
 ---
 
-## 📂 File Information
+## 📂 File Information:
+stdmanag.cpp // Main source file containing the Student Management System
