@@ -18,7 +18,7 @@ The system stores student details such as name, roll number, course, class, and 
 
 ---
 
-## ✨ Features
+## ✨ Fea
 - Add multiple student records  
 - Display all stored student records  
 - Search a student by roll number  
