@@ -8,7 +8,7 @@ The system stores student details such as name, roll number, course, class, and 
 
 ---
 
-## 🛠️ Technologies Use
+## 🛠️ Technologies Used
 - C++
 - Arrays
 - Functions
