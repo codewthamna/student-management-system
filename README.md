@@ -14,7 +14,7 @@ The system stores student details such as name, roll number, course, class, and 
 - Functions
 - Conditional Statements
 - Loops
-- Console Input/Output
+- Console Input/Outp
 
 ---
 
